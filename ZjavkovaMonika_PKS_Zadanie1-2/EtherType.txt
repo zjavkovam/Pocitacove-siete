@@ -1,0 +1,1 @@
+0200 XEROX PUPP201 PUPP Addr Trrans0800 IPv40801 X.75 Internet0805 X.25 Level 30806 ARP8035 Reverse ARP809B Appletalk80F3 AppleTalk AARP8100 IEE 802.1Q VLAN-tagged frames8137 Novell IPX86DD IPv6880B PPP8847 MPLS8848 MLPS with upstream-assinged label8863 PPPoE Discovery Stage8864 PPPoE Session Stage

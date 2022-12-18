@@ -1,0 +1,1 @@
+7 echo19 chargen20 FTP dátove21 FTP riadiace22 SSH23 TELNET25 smtp53 domain79 fingerr80 HTTP110 pop3111 sunrpp119 nntp139 netbios-ssn143 imapp179 bgp389 ldap443 HTTPS445 microsoft-ds1080 socks
